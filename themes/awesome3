@@ -1,0 +1,18 @@
+# Default awesome3 theme
+
+font=sans 8
+
+bg_normal=#222222
+bg_focus=#535d6c
+bg_urgent=#ff0000
+
+fg_normal=#aaaaaa
+fg_focus=#ffffff
+fg_urgent=#ffffff
+
+border_width=1
+border_normal=#000000
+border_focus=#535d6c
+border_marked=#91231C
+
+wallpaper_cmd=fbsetbg -f .config/awesome/themes/awesome-wallpaper.png
