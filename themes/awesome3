@@ -1,5 +1,10 @@
+# ----------------------
 # Default awesome3 theme
+# ----------------------
 
+# lines beginning with '#' are comments
+
+# you do not need to add quotes
 font=sans 8
 
 bg_normal=#222222
@@ -15,4 +20,9 @@ border_normal=#000000
 border_focus=#535d6c
 border_marked=#91231C
 
+# you can't change that variable name, because Beautiful
+# will check if 'wallpaper_cmd' is defined before setting 
+# the wallpaper
+
+# don't forget to set your own command here
 wallpaper_cmd=fbsetbg -f .config/awesome/themes/awesome-wallpaper.png

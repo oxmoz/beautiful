@@ -1,0 +1,13 @@
+Beautiful - A library to theme awesome3
+---------------------------------------
+
+Installation: 
+
+- Symlink or copy beautiful.lua to your awesome local share folder (i.e: /usr/local/share/awesome/lib for Debian GNU/Linux)
+- Symllink or copy the 'themes' folder to ~/.config/awesome/
+
+Don't forget to edit the awesome3 theme to set up your own wallpaper manager
+
+How to use Beautiful:
+
+http://article.gmane.org/gmane.comp.window-managers.awesome/2547
